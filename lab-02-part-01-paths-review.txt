@@ -12,61 +12,62 @@ Feel free to use your workstation to test your answers to the questions that don
 ==========
 ==========
 1. Write the command that you would use to change to the root directory.
-----------
 
+cd / (slash)
 
 
 ==========
 2. Write the command that you would use to change to your home directory.
-----------
 
+cd ~ (tilde)
 
 
 ==========
 3. Write the command that you would use to change to your Desktop folder.
-----------
 
+cd /Users/student/Desktop
 
 
 ==========
 4. What's the absolute path to your home directory?
-----------
 
+cd /Users
 
 
 ==========
 5. What's the absolute path to your Desktop directory?
-----------
 
+cd /Users/student/Desktop
 
 
 ==========
 6. What's the absolute path to your Desktop directory?
-----------
 
+cd /Users/student/Desktop
 
 
 ==========
 7. If you're in your home directory, what's the relative path to your Desktop directory?
-----------
+
+cd Desktop
 
 
 ==========
 8. If you're in your home directory, how would you create a new directory on your desktop called stuff without changing your directory?  Write your command below.
-----------
 
+mkdir Desktop/stuff
 
 
 ==========
 9. If you're in your root directory, how would you create a new directory on your desktop called more-stuff without changing your directory?  Write your command below.
-----------
 
+mkdir Users/student/Desktop/more-stuff
 
 
 ==========
 10. If you're in your Desktop directory, how would you create a new directory on your desktop called even-more-stuff?  Write your command below.
-----------
 
+mkdir 
 
 
 ==========
@@ -82,7 +83,7 @@ Feel free to use your workstation to test your answers to the questions that don
 
 
 ==========
-13. What's the shortcut for changing to the directory that you were just previously in?  For example, if I were in /Volumes... and I changed to /Users/profesor/Desktop, what's a quick way of changing to /Volumes without writing something like cd /Volumes?
+13. What's the shortcut for changing to the directory that you were just previously in?  For example, if I were in /Volumes... and I changed to /Users/professor/Desktop, what's a quick way of changing to /Volumes without writing something like cd /Volumes?
 ----------
 
 ==========
